@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "name": "solana1_project",
+  "instructions": [
+    {
+      "name": "initialize",
+      "accounts": [],
+      "args": []
+    }
+  ],
+  "metadata": {
+    "address": "7sxccSdwCxgDaUC5Nhf7NiM96DNqqH4WENhZMpyfFXXz"
+  }
+}
